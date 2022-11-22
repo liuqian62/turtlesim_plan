@@ -1,10 +1,13 @@
 # turtlesim_plan
 
 #### 介绍
-规划路径控制小乌龟走工字形
+规划路径控制小乌龟走弓字形
 ![1](./imgs/tur1.png)
+
 ![2](./imgs/tur2.png)
+
 ![3](./imgs/tur3.png)
+
 
 ```bash
 mkdir -p catkin_ws/src
